@@ -1,5 +1,4 @@
-
- Here, we posted some sommon models used in fault diagnosis including ML and simpel DL methods. 
+Here, we posted some sommon models used in fault diagnosis including ML and simpel DL methods. 
  
  If you have used them or got help here, please cited our work: [Similarity-based meta-learning network with adversarial domain adaptation for cross-domain fault identification](https://www.sciencedirect.com/science/article/pii/S0950705121000927)
  ```
