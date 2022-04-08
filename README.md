@@ -10,7 +10,7 @@ The PyTorch implementation for `Domain-adversarial similarity-based meta-learnin
   With wide applications of intelligent methods in mechanical fault diagnosis, satisfactory results have been achieved. However, complicated and diverse practical working conditions would significantly reduce the performance of the diagnostic model that works well in the laboratory, i.e. domain shift occurs. To address the problem, this paper proposed a novel `similarity-based meta-learning network with adversarial domain adaptation for cross-domain fault identification`. The proposed `domain-adversarial similarity-based meta-learning network (DASMN)` consists of three modules: a feature encoder, a classifier and a domain discriminator. First, the encoder and the classifier implement the similarity-based meta-learning algorithm, in while the good generalization ability for unseen tasks is obtained. Then, adversarial domain adaptation is conducted by minimizing and maximizing the domain-discriminative error adversarially, which takes unlabeled source data and target data as inputs. The effectiveness of DASMN is evaluated by multiple cross-domain cases using three bearing vibration datasets and is compared with five well-established methods. Experimental results demonstrate the availability and outstanding generalization ability of the proposed method for cross-domain fault identification.
   
 ## Citation
-BibTex
+If you have used our codes, or got help here or from our article, please cited our work in your own work. The BibTex format is as follows.
 ```
 @article{FENG2021106829,
 title = {Similarity-based meta-learning network with adversarial domain adaptation for cross-domain fault identification},
